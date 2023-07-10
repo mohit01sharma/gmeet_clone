@@ -1,11 +1,15 @@
-Gmeet Clone
+## Gmeet Clone
 
-Follow the given steps for starting the app
-1-npm install
-2-npm start
-3-Open http://localhost:3000 on your browser.
+# Follow the given steps for starting the app
+```npm install```    
+```npm start```    
+Open http://localhost:3000 on your browser.  
 
+# Features 
+Video call  
+Real Time Chat  
+Picture-in-picture  
 
-Group members-
-1-Mohit Sharma
-2-Khushi Agrawal
+# Group members-
+1-Mohit Sharma  
+2-Khushi Agrawal  
