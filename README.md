@@ -1,4 +1,4 @@
-# Gmeet Clone
+# Let's Meet (Video Call App)
 
 ### Follow the given steps for starting the app
 ```npm install```    
