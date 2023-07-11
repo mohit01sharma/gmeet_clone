@@ -10,6 +10,13 @@ Video call
 Real Time Chat  
 Picture-in-picture  
 
+## App pages
+![home](images/home.png)  
+![login](images/login.png)  
+![register](images/register.png)  
+![call](images/call.png)  
+![endcall](images/endcall.png)  
+
 ### Group members
 1-Mohit Sharma  
 2-Khushi Agrawal  
